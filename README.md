@@ -19,3 +19,22 @@ This project demonstrates how to build a scalable web infrastructure using AWS s
 
 ## Result
 The system automatically launches new EC2 instances when CPU utilization increases, ensuring high availability and scalability.
+## Project Screenshots
+
+### Launch Template
+![Launch Template](launch-template.png)
+
+### Auto Scaling Group
+![Auto Scaling Group](autoscaling-group.png)
+
+### Instances Before Scaling
+![Instances Before](instances-before-scaling.png)
+
+### CPU Stress Test
+![CPU Stress Test](cpu-stress-test.png)
+
+### Auto Scaling Activity
+![Scaling Activity](autoscaling-activity.png)
+
+### Instances After Scaling
+![Instances After](instances-after-scaling.png)
